@@ -29,7 +29,7 @@ make
 ```
 
 ## Authors
-- Your Name <your.email@example.com>
+- Out team: I.Pavlov <[12Ivan03](https://github.com/12Ivan03)> and A.Erokhina <[agerokhina](https://github.com/agerokhina)>
 
 ## License
 This project is for educational purposes.
