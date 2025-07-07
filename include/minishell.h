@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   minishell.h                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ipavlov <ipavlov@student.codam.nl>         +#+  +:+       +#+        */
+/*   By: aerokhin <aerokhin@student.codam.nl>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/17 16:57:04 by ipavlov           #+#    #+#             */
-/*   Updated: 2025/06/28 19:28:58 by ipavlov          ###   ########.fr       */
+/*   Updated: 2025/07/07 13:57:50 by aerokhin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -43,7 +43,7 @@
 
 # define MAX_LEN_PROMPT 35
 
-# define PRG_NAME "minihell: "
+# define PRG_NAME "minishell: "
 
 typedef struct s_list_words
 {
